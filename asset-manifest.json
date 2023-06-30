@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Coursera-Portfolio/static/css/main.df6a7eab.css",
-    "main.js": "/Coursera-Portfolio/static/js/main.fefb9394.js",
-    "static/js/111.ad1cef69.chunk.js": "/Coursera-Portfolio/static/js/111.ad1cef69.chunk.js",
+    "main.js": "/Coursera-Portfolio/static/js/main.ffc6b9dc.js",
+    "static/js/111.04fd4e74.chunk.js": "/Coursera-Portfolio/static/js/111.04fd4e74.chunk.js",
     "static/media/photo4.jpg": "/Coursera-Portfolio/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
     "static/media/photo2.jpg": "/Coursera-Portfolio/static/media/photo2.7d510936625768642967.jpg",
     "static/media/photo3.jpg": "/Coursera-Portfolio/static/media/photo3.9a32dfac129b20149889.jpg",
     "static/media/photo1.jpg": "/Coursera-Portfolio/static/media/photo1.76b22eb753ddc88e0626.jpg",
     "index.html": "/Coursera-Portfolio/index.html",
     "main.df6a7eab.css.map": "/Coursera-Portfolio/static/css/main.df6a7eab.css.map",
-    "main.fefb9394.js.map": "/Coursera-Portfolio/static/js/main.fefb9394.js.map",
-    "111.ad1cef69.chunk.js.map": "/Coursera-Portfolio/static/js/111.ad1cef69.chunk.js.map"
+    "main.ffc6b9dc.js.map": "/Coursera-Portfolio/static/js/main.ffc6b9dc.js.map",
+    "111.04fd4e74.chunk.js.map": "/Coursera-Portfolio/static/js/111.04fd4e74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.fefb9394.js"
+    "static/js/main.ffc6b9dc.js"
   ]
 }
